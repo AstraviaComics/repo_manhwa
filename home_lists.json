@@ -1,0 +1,34 @@
+{
+  "populer": [
+    {
+      "judul": "9th Class Sword Master",
+      "slug": "9th-class-sword-master",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2023/05/9th-class-sword-master-050037-hlt5Ixoe.jpeg",
+      "tipe": "manhua"
+    },
+    {
+      "judul":"99 Boss","slug":"99-boss",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/07/99-boss-259542-x7F3W5uK-210x300.jpeg",
+      "tipe": "manhwa"
+    },
+    {
+      "judul": "One Piece",
+      "slug": "one-piece",
+      "thumbnail": "https://i0.wp.com/kiryuu.id/wp-content/uploads/2021/08/one-piece.jpeg",
+      "tipe": "manga"
+    }
+  ],
+  "baru_update": [
+    {
+      "judul":"1 Million Times Attack Speed","slug":"1-million-times-attack-speed",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/11/thumbnail-64b9c3a158007-181855-dnSAoqYZ-228x300.png",
+      "tipe": "manhua"
+    },
+    {
+      "judul": "The Beginning After The End",
+      "slug": "the-beginning-after-the-end",
+      "thumbnail": "https://i0.wp.com/kiryuu.id/wp-content/uploads/2020/07/The-Beginning-After-the-End.jpg",
+      "tipe": "manhwa"
+    }
+  ]
+}
