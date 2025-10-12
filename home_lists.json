@@ -1,44 +1,94 @@
 {
-  "populer": [
+  "populer_hari_ini": [
     {
-      "judul": "48 Hours a Day",
-      "slug": "48-hours-a-day",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2023/05/9th-class-sword-master-050037-hlt5Ixoe.jpeg",
-      "tipe": "manhua",
-      "rating": "8.5",
-      "chapter_terakhir": "Chapter 320"
-    },
-    {
-      "judul":"99 Boss","slug":"99-boss",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/07/99-boss-259542-x7F3W5uK-210x300.jpeg",
-      "tipe": "manhwa",
-      "rating": "8.5",
-      "chapter_terakhir": "Chapter 320"
-    },
-    {
-      "judul": "One Piece",
-      "slug": "one-piece",
-      "thumbnail": "https://i0.wp.com/kiryuu.id/wp-content/uploads/2021/08/one-piece.jpeg",
-      "tipe": "manga",
-      "rating": "8.5",
-      "chapter_terakhir": "Chapter 320"
+      "judul": "Solo Leveling",
+      "thumbnail": "https://.../thumbnail.jpg",
+      "chapter_terakhir": "Chapter 179",
+      "rating": "9.9",
+      "slug": "solo-leveling",
+      "tipe": "manhwa"
     }
   ],
-  "baru_update": [
+  "serial_populer": {
+    "mingguan": [
+      {
+        "judul": "The Beginning After The End",
+        "thumbnail": "https://.../thumbnail.jpg",
+        "genre": ["Action", "Fantasy", "Isekai"],
+        "rating": "9.8",
+        "slug": "the-beginning-after-the-end",
+        "tipe": "manhwa"
+      }
+    ],
+    "bulanan": [
+      {
+        "judul": "Omniscient Reader's Viewpoint",
+        "thumbnail": "https://.../thumbnail.jpg",
+        "genre": ["Action", "Adventure"],
+        "rating": "9.9",
+        "slug": "omniscient-readers-viewpoint",
+        "tipe": "manhwa"
+      }
+    ],
+    "semua": [
+      {
+        "judul": "Tower of God",
+        "thumbnail": "https://.../thumbnail.jpg",
+        "genre": ["Action", "Mystery"],
+        "rating": "9.7",
+        "slug": "tower-of-god",
+        "tipe": "manhwa"
+      }
+    ]
+  },
+  "project_update": [
     {
-      "judul":"1 Million Times Attack Speed","slug":"1-million-times-attack-speed",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/11/thumbnail-64b9c3a158007-181855-dnSAoqYZ-228x300.png",
-      "tipe": "manhua",
-      "rating": "8.5",
-      "chapter_terakhir": "Chapter 320"
-    },
-    {
-      "judul": "The Beginning After The End",
-      "slug": "the-beginning-after-the-end",
-      "thumbnail": "https://i0.wp.com/kiryuu.id/wp-content/uploads/2020/07/The-Beginning-After-the-End.jpg",
-      "tipe": "manhwa",
-      "rating": "8.5",
-      "chapter_terakhir": "Chapter 320"
+      "judul": "Return of the Frozen Player",
+      "thumbnail": "https://.../thumbnail.jpg",
+      "chapters_terbaru": ["Chapter 88", "Chapter 87"],
+      "slug": "return-of-the-frozen-player",
+      "tipe": "manhwa"
     }
-  ]
+  ],
+  "rilisan_terbaru": [
+    {
+      "judul": "Eleceed",
+      "thumbnail": "https://.../thumbnail.jpg",
+      "chapters_terbaru": ["Chapter 215", "Chapter 214", "Chapter 213"],
+      "slug": "eleceed",
+      "tipe": "manhwa"
+    }
+  ],
+  "serial_baru": [
+    {
+      "judul": "The Greatest Estate Developer",
+      "thumbnail": "https://.../thumbnail.jpg",
+      "released": "2023",
+      "genre": ["Comedy", "Fantasy"],
+      "slug": "the-greatest-estate-developer",
+      "tipe": "manhwa"
+    }
+  ],
+  "rekomendasi": {
+    "aksi": [
+      {
+        "judul": "Mercenary Enrollment",
+        "thumbnail": "https://.../thumbnail.jpg",
+        "chapter_terakhir": "Chapter 101",
+        "rating": "9.5",
+        "slug": "mercenary-enrollment",
+        "tipe": "manhwa"
+      }
+    ],
+    "fantasi": [
+      {
+        "judul": "S-Classes That I Raised",
+        "thumbnail": "https://.../thumbnail.jpg",
+        "chapter_terakhir": "Chapter 95",
+        "rating": "9.4",
+        "slug": "s-classes-that-i-raised",
+        "tipe": "manhwa"
+      }
+    ]
+  }
 }
