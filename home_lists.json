@@ -1,94 +1,406 @@
 {
   "populer_hari_ini": [
     {
-      "judul": "Solo Leveling",
-      "thumbnail": "https://.../thumbnail.jpg",
-      "chapter_terakhir": "Chapter 179",
-      "rating": "9.9",
-      "slug": "solo-leveling",
-      "tipe": "manhwa"
+      "judul": "Niwatori Fighter",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/04/niwatori-fighter-459997-HAsjbASi-211x300.jpg",
+      "chapter_terakhir": "Chapter 29",
+      "rating": "8.7",
+      "slug": "niwatori-fighter",
+      "tipe": "manga"
+    },
+    {
+      "judul": "I Got My Wish and Reincarnated as the Villainess (Last Boss)!",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/12/vill-421643-iJ0u49AE-211x300.jpg",
+      "chapter_terakhir": "Chapter 09",
+      "rating": "7.00",
+      "slug": "i-got-my-wish-and-reincarnated-as-the-villainess-last-boss",
+      "tipe": "manga"
+    },
+    {
+      "judul": "The Extra Is Too Strong",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2023/06/theextraistoostrongcover01-995336-9dhOIImC-210x300.webp",
+      "chapter_terakhir": "Chapter 103",
+      "rating": "8",
+      "slug": "the-extra-is-too-strong",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Soul Land III – The Legend of the Dragon King",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/soul-land-iii-the-legend-of-the-dragon-king-099198-DlQFT64P-208x300.png",
+      "chapter_terakhir": "Chapter 105",
+      "rating": "7",
+      "slug": "soul-land-iii-the-legend-of-the-dragon-king",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Defense Breaker",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/07/defense-breaker-136131-CrP8D4BZ-231x300.png",
+      "chapter_terakhir": "Chapter 19",
+      "rating": "8.26",
+      "slug": "defense-breaker",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Dungeon Crawler Carl",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/08/dcc-307414-seh2lDFX-231x300.jpg",
+      "chapter_terakhir": "Chapter 15",
+      "rating": "8.16",
+      "slug": "dungeon-crawler-carl",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Become the Strongest Hero Through the Cheat System",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/05/become-the-strongest-hero-through-the-cheat-system-936125-bevA1UM8-225x300.webp",
+      "chapter_terakhir": "Chapter 81",
+      "rating": "9.7",
+      "slug": "become-the-strongest-hero-through-the-cheat-system",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Worn and Torn Newbie",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/worn-and-torn-newbie-734035-kJzKixIH-222x300.jpg",
+      "chapter_terakhir": "Chapter 236",
+      "rating": "8",
+      "slug": "worn-and-torn-newbie",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Kekkon Yubiwa Monogatari",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/56595482-sx318-739704-OV34DW8P-211x300.jpg",
+      "chapter_terakhir": "Chapter 81.5",
+      "rating": "7.9",
+      "slug": "kekkon-yubiwa-monogatari",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Kuma Kuma Kuma Bear",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/kuma-kuma-kuma-bear-542680-ebnHkFSP-211x300.jpg",
+      "chapter_terakhir": "Chapter 89",
+      "rating": "7.9",
+      "slug": "kuma-kuma-kuma-bear",
+      "tipe": "manga"
     }
   ],
   "serial_populer": {
     "mingguan": [
       {
-        "judul": "The Beginning After The End",
-        "thumbnail": "https://.../thumbnail.jpg",
-        "genre": ["Action", "Fantasy", "Isekai"],
-        "rating": "9.8",
-        "slug": "the-beginning-after-the-end",
-        "tipe": "manhwa"
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/09/image-2025-09-27-174212806-182784-cWVwHmSF-225x300.png",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Martial Arts",
+          "Shounen"
+        ],
+        "rating": "7.00",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/06/my-gift-lvl-9999-unlimited-gacha-878801-CN5d58n6-204x300.jpg",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Harem"
+        ],
+        "rating": "7",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/05/manhua-821002-yAQZQNai-177x300.gif",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "8.4",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/23-587365-WMDAnwJR-119x300.jpg",
+        "genre": [
+          "Action",
+          "Drama",
+          "Romance",
+          "School Life",
+          "Sci-fi"
+        ],
+        "rating": "9",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/11/evolution-begins-with-a-big-tree-004006-0dgMZckc-206x300.jpg",
+        "genre": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "8.3",
+        "slug": "",
+        "tipe": "manga"
       }
     ],
     "bulanan": [
       {
-        "judul": "Omniscient Reader's Viewpoint",
-        "thumbnail": "https://.../thumbnail.jpg",
-        "genre": ["Action", "Adventure"],
-        "rating": "9.9",
-        "slug": "omniscient-readers-viewpoint",
-        "tipe": "manhwa"
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/05/manhua-821002-yAQZQNai-177x300.gif",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "8.4",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/11/evolution-begins-with-a-big-tree-004006-0dgMZckc-206x300.jpg",
+        "genre": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "8.3",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/23-587365-WMDAnwJR-119x300.jpg",
+        "genre": [
+          "Action",
+          "Drama",
+          "Romance",
+          "School Life",
+          "Sci-fi"
+        ],
+        "rating": "9",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/08/01-016597-zfaTc2jc-207x300.jpg",
+        "genre": [
+          "Action",
+          "Fantasy",
+          "Reincarnation"
+        ],
+        "rating": "7",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/Martial-Peak-225x300.jpg",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Harem",
+          "Historical",
+          "Martial Arts",
+          "Romance",
+          "Sci-fi",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "7.6",
+        "slug": "",
+        "tipe": "manga"
       }
     ],
     "semua": [
       {
-        "judul": "Tower of God",
-        "thumbnail": "https://.../thumbnail.jpg",
-        "genre": ["Action", "Mystery"],
-        "rating": "9.7",
-        "slug": "tower-of-god",
-        "tipe": "manhwa"
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/Martial-Peak-225x300.jpg",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Harem",
+          "Historical",
+          "Martial Arts",
+          "Romance",
+          "Sci-fi",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "7.6",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/06/08-374020-cbiyLkVi-222x300.png",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Shounen",
+          "Super Power"
+        ],
+        "rating": "9",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/05/manhua-821002-yAQZQNai-177x300.gif",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Shounen",
+          "Supernatural"
+        ],
+        "rating": "8.4",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/23-587365-WMDAnwJR-119x300.jpg",
+        "genre": [
+          "Action",
+          "Drama",
+          "Romance",
+          "School Life",
+          "Sci-fi"
+        ],
+        "rating": "9",
+        "slug": "",
+        "tipe": "manga"
+      },
+      {
+        "judul": "",
+        "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/07/71991ab35fab0c0a145530942eb5d7248f805128-s2-n2-y1-730914-piVf8mFP-207x300.webp",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "rating": "8.6",
+        "slug": "",
+        "tipe": "manga"
       }
     ]
   },
-  "project_update": [
-    {
-      "judul": "Return of the Frozen Player",
-      "thumbnail": "https://.../thumbnail.jpg",
-      "chapters_terbaru": ["Chapter 88", "Chapter 87"],
-      "slug": "return-of-the-frozen-player",
-      "tipe": "manhwa"
-    }
-  ],
+  "project_update": [],
   "rilisan_terbaru": [
     {
-      "judul": "Eleceed",
-      "thumbnail": "https://.../thumbnail.jpg",
-      "chapters_terbaru": ["Chapter 215", "Chapter 214", "Chapter 213"],
-      "slug": "eleceed",
-      "tipe": "manhwa"
-    }
-  ],
-  "serial_baru": [
+      "judul": "Niwatori Fighter",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/04/niwatori-fighter-459997-HAsjbASi-211x300.jpg",
+      "chapters_terbaru": [
+        "Chapter 29"
+      ],
+      "slug": "niwatori-fighter",
+      "tipe": "manga"
+    },
     {
-      "judul": "The Greatest Estate Developer",
-      "thumbnail": "https://.../thumbnail.jpg",
-      "released": "2023",
-      "genre": ["Comedy", "Fantasy"],
-      "slug": "the-greatest-estate-developer",
-      "tipe": "manhwa"
+      "judul": "I Got My Wish and Reincarnated as the Villainess (Last Boss)!",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/12/vill-421643-iJ0u49AE-211x300.jpg",
+      "chapters_terbaru": [
+        "Chapter 09"
+      ],
+      "slug": "i-got-my-wish-and-reincarnated-as-the-villainess-last-boss",
+      "tipe": "manga"
+    },
+    {
+      "judul": "The Extra Is Too Strong",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2023/06/theextraistoostrongcover01-995336-9dhOIImC-210x300.webp",
+      "chapters_terbaru": [
+        "Chapter 103"
+      ],
+      "slug": "the-extra-is-too-strong",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Soul Land III – The Legend of the Dragon King",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/soul-land-iii-the-legend-of-the-dragon-king-099198-DlQFT64P-208x300.png",
+      "chapters_terbaru": [
+        "Chapter 105"
+      ],
+      "slug": "soul-land-iii-the-legend-of-the-dragon-king",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Defense Breaker",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/07/defense-breaker-136131-CrP8D4BZ-231x300.png",
+      "chapters_terbaru": [
+        "Chapter 19"
+      ],
+      "slug": "defense-breaker",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Dungeon Crawler Carl",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/08/dcc-307414-seh2lDFX-231x300.jpg",
+      "chapters_terbaru": [
+        "Chapter 15"
+      ],
+      "slug": "dungeon-crawler-carl",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Become the Strongest Hero Through the Cheat System",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/05/become-the-strongest-hero-through-the-cheat-system-936125-bevA1UM8-225x300.webp",
+      "chapters_terbaru": [
+        "Chapter 81"
+      ],
+      "slug": "become-the-strongest-hero-through-the-cheat-system",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Worn and Torn Newbie",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/worn-and-torn-newbie-734035-kJzKixIH-222x300.jpg",
+      "chapters_terbaru": [
+        "Chapter 236"
+      ],
+      "slug": "worn-and-torn-newbie",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Kekkon Yubiwa Monogatari",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/56595482-sx318-739704-OV34DW8P-211x300.jpg",
+      "chapters_terbaru": [
+        "Chapter 81.5"
+      ],
+      "slug": "kekkon-yubiwa-monogatari",
+      "tipe": "manga"
+    },
+    {
+      "judul": "Kuma Kuma Kuma Bear",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/kuma-kuma-kuma-bear-542680-ebnHkFSP-211x300.jpg",
+      "chapters_terbaru": [
+        "Chapter 89"
+      ],
+      "slug": "kuma-kuma-kuma-bear",
+      "tipe": "manga"
     }
   ],
-  "rekomendasi": {
-    "aksi": [
-      {
-        "judul": "Mercenary Enrollment",
-        "thumbnail": "https://.../thumbnail.jpg",
-        "chapter_terakhir": "Chapter 101",
-        "rating": "9.5",
-        "slug": "mercenary-enrollment",
-        "tipe": "manhwa"
-      }
-    ],
-    "fantasi": [
-      {
-        "judul": "S-Classes That I Raised",
-        "thumbnail": "https://.../thumbnail.jpg",
-        "chapter_terakhir": "Chapter 95",
-        "rating": "9.4",
-        "slug": "s-classes-that-i-raised",
-        "tipe": "manhwa"
-      }
-    ]
-  }
+  "serial_baru": [],
+  "rekomendasi": {}
 }
