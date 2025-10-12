@@ -309,98 +309,73 @@
     ]
   },
   "project_update": [],
-  "rilisan_terbaru": [
+  "rilisan_terbaru": [],
+  "serial_baru": [
     {
-      "judul": "Niwatori Fighter",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/04/niwatori-fighter-459997-HAsjbASi-211x300.jpg",
-      "chapters_terbaru": [
-        "Chapter 29"
+      "judul": "Toukyou KINOKO: Sekai Ranking 1-i no Komyu-ryoku Saijaku JK",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/10/toukyou-kinoko-058875-A8COwgpZ-230x300.jpg",
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Shounen"
       ],
-      "slug": "niwatori-fighter",
+      "slug": "toukyou-kinoko-sekai-ranking-1-i-no-komyu-ryoku-saijaku-jk",
+      "tipe": "manga",
+      "released": "2025"
+    },
+    {
+      "judul": "Mahou wa Isekai ni Oite Kimashita. ~ Tensai Madoushi Datta Imouto no Yowakute New Game ~",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/10/mahou-wa-isekai-ni-oite-kimashita-tensai-madoushi-datta-imouto-no-yowakute-new-game-944802-LvauO9PB-212x300.jpg",
+      "genre": [
+        "Drama",
+        "Fantasy",
+        "Romance",
+        "Shounen"
+      ],
+      "slug": "mahou-wa-isekai-ni-oite-kimashita-tensai-madoushi-datta-imouto-no-yowakute-new-game",
+      "tipe": "manga",
+      "released": "2025"
+    },
+    {
+      "judul": "Boku dake ga Shitterun Daze",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/10/boku-dake-ga-shitterun-daze-462636-ZoxG4Mzb-211x300.jpg",
+      "genre": [
+        "Drama",
+        "Romance",
+        "School Life",
+        "Seinen"
+      ],
+      "slug": "boku-dake-ga-shitterun-daze",
+      "tipe": "manga",
+      "released": "2024"
+    },
+    {
+      "judul": "Goddess of Abundance and the Genius Rogue Apostle",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/10/goddess-191397-6rizn6Ew-210x300.webp",
+      "genre": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "slug": "goddess-of-abundance-and-the-genius-rogue-apostle",
       "tipe": "manga"
     },
     {
-      "judul": "I Got My Wish and Reincarnated as the Villainess (Last Boss)!",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2024/12/vill-421643-iJ0u49AE-211x300.jpg",
-      "chapters_terbaru": [
-        "Chapter 09"
+      "judul": "100 ghost stories that will lead to my own death",
+      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/10/100-ghost-stories-that-will-lead-to-my-own-death-344738-1L8ooXht-212x300.webp",
+      "genre": [
+        "Horror",
+        "Mature",
+        "Mystery",
+        "Psychological",
+        "Shounen",
+        "Supernatural",
+        "Tragedy"
       ],
-      "slug": "i-got-my-wish-and-reincarnated-as-the-villainess-last-boss",
-      "tipe": "manga"
-    },
-    {
-      "judul": "The Extra Is Too Strong",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2023/06/theextraistoostrongcover01-995336-9dhOIImC-210x300.webp",
-      "chapters_terbaru": [
-        "Chapter 103"
-      ],
-      "slug": "the-extra-is-too-strong",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Soul Land III – The Legend of the Dragon King",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/soul-land-iii-the-legend-of-the-dragon-king-099198-DlQFT64P-208x300.png",
-      "chapters_terbaru": [
-        "Chapter 105"
-      ],
-      "slug": "soul-land-iii-the-legend-of-the-dragon-king",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Defense Breaker",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/07/defense-breaker-136131-CrP8D4BZ-231x300.png",
-      "chapters_terbaru": [
-        "Chapter 19"
-      ],
-      "slug": "defense-breaker",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Dungeon Crawler Carl",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/08/dcc-307414-seh2lDFX-231x300.jpg",
-      "chapters_terbaru": [
-        "Chapter 15"
-      ],
-      "slug": "dungeon-crawler-carl",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Become the Strongest Hero Through the Cheat System",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2025/05/become-the-strongest-hero-through-the-cheat-system-936125-bevA1UM8-225x300.webp",
-      "chapters_terbaru": [
-        "Chapter 81"
-      ],
-      "slug": "become-the-strongest-hero-through-the-cheat-system",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Worn and Torn Newbie",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/worn-and-torn-newbie-734035-kJzKixIH-222x300.jpg",
-      "chapters_terbaru": [
-        "Chapter 236"
-      ],
-      "slug": "worn-and-torn-newbie",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Kekkon Yubiwa Monogatari",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/56595482-sx318-739704-OV34DW8P-211x300.jpg",
-      "chapters_terbaru": [
-        "Chapter 81.5"
-      ],
-      "slug": "kekkon-yubiwa-monogatari",
-      "tipe": "manga"
-    },
-    {
-      "judul": "Kuma Kuma Kuma Bear",
-      "thumbnail": "https://kiryuu02.com/wp-content/uploads/2021/03/kuma-kuma-kuma-bear-542680-ebnHkFSP-211x300.jpg",
-      "chapters_terbaru": [
-        "Chapter 89"
-      ],
-      "slug": "kuma-kuma-kuma-bear",
-      "tipe": "manga"
+      "slug": "100-ghost-stories-that-will-lead-to-my-own-death",
+      "tipe": "manga",
+      "released": "2020"
     }
   ],
-  "serial_baru": [],
   "rekomendasi": {}
 }
